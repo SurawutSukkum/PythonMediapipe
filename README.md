@@ -9,4 +9,4 @@ pip install pandas
 
 
 ## Test
-![alt text](https://github.com/SurawutSukkum/PythonMediapipe/Capture.JPG?raw=true)
+![alt text](https://github.com/SurawutSukkum/PythonMediapipe/blob/main/Capture.JPG?raw=true)
