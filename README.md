@@ -4,7 +4,7 @@
 Support python version 3.7.9 
 ```
 pip install opencv-contrib-python
-pip install pandas 
+pip install mediapipe 
 ```
 
 
